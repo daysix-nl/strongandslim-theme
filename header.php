@@ -24,7 +24,7 @@ display: none !important;
 		text-decoration: underline;
 	}
 </style>
-<!-- DONE -->
+
 <body <?php body_class( 'page-block ' ); ?> id="up">
     <header class="sticky top-[-30px] z-10">
         <section class="bg-creme h-3 flex"><p class="text-green my-auto mx-auto font-avenir-light text-12 leeading-28 font-stroke"><?php the_field("header_top", "option") ?></p></section>
