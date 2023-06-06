@@ -1,0 +1,147 @@
+header {
+  .desktop-dropdown {
+    transition: 0.3s;
+    white-space: nowrap;
+    opacity: 0;
+    z-index: 10;
+    visibility: hidden;
+    position: absolute;
+    overflow: hidden;
+    max-height: 800px;
+    top: 110px;
+    left: 0;
+    right: 0;
+    transition: transform 0.1s ease, opacity 0ms linear 0.1s,
+      visibility 0ms linear 0.1s;
+    transform-origin: top center;
+    transform: scaleY(0);
+
+    & .inner-dropdown {
+      opacity: 0;
+      // transition: 0.3s;
+      // transition-delay: 0.5s;
+    }
+
+    &.open {
+      visibility: visible;
+      opacity: 1;
+      transform: scaleY(1);
+      transition: linear 0.3s;
+
+      & .inner-dropdown {
+        transition: 0.3s;
+        transition-delay: 0.5s;
+        opacity: 1;
+      }
+    }
+  }
+
+  .button-producten {
+    position: relative;
+
+    &.active {
+      &::after {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 100%;
+        height: 2px;
+        background-color: #ff6d5a;
+      }
+    }
+  }
+}
+
+.hover-bol-dropdown {
+  &__inner {
+    opacity: 0;
+    transition: 0.3s;
+  }
+
+  &:hover {
+    .hover-bol-dropdown__inner {
+      opacity: 1;
+      transition: 0.3s;
+    }
+  }
+}
+
+.desktop-dropdown-overlay {
+  display: none;
+
+  &.open {
+    display: block;
+  }
+}
+
+.link-navbar {
+  position: relative;
+
+  &:hover {
+    &::after {
+      content: "";
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      width: 100%;
+      height: 2px;
+      background-color: #ff6d5a;
+    }
+  }
+}
+
+@media only screen and (max-width: 939px) {
+  .logo-svg {
+    transform: scale(0.7) translate(0px, 0px);
+    transform-origin: left;
+
+    path {
+
+      &:nth-of-type(1),
+      &:nth-of-type(2) {
+        display: none;
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 940px) {
+  .logo-svg {
+    transition: 1s;
+    transform: scale(1);
+    opacity: 1;
+
+    &.active {
+      transition: 1s;
+      transform: translate(61px, 0px) scale(0.7);
+
+      path {
+
+        &:nth-of-type(1),
+        &:nth-of-type(2) {
+          transition: 0.5s;
+          opacity: 0;
+        }
+      }
+    }
+  }
+}
+
+.header-white {
+  transition: 0.5s;
+  border-bottom: 1px solid #f0e9e3;
+
+  &.active {
+    height: 50px;
+    transition: 0.5s;
+
+    .container {
+      transform: translate(0px, -4px);
+    }
+
+    // .hamburger-button {
+    //   transform: translate(0px, -4px);
+    // }
+  }
+}

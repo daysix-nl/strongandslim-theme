@@ -1,0 +1,16 @@
+{
+  "name": "featured-categories",
+  "title": "Featured Categories",
+  "description": "",
+  "category": "blokken",
+  "icon": "insert",
+  "keywords": ["block"],
+  "supports": {
+    "mode": false,
+    "jsx": true
+  },
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "featured-categories.php"
+  }
+}

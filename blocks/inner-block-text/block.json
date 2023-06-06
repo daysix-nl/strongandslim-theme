@@ -1,0 +1,18 @@
+{
+  "name": "inner-block-text",
+  "title": "Tekst",
+  "description": "",
+  "category": "innerblocks",
+  "icon": "insert",
+  "keywords": [
+    "block"
+  ],
+  "supports": {
+    "mode": false,
+    "jsx": true
+  },
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "inner-block-text.php"
+  }
+}

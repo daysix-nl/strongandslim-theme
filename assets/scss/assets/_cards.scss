@@ -1,0 +1,242 @@
+// .section-image-fade-in {
+//   img {
+//     opacity: 0;
+//   }
+
+//   &.show {
+//     img {
+//       &:nth-of-type(1) {
+//         opacity: 1;
+//         transition: 0.5s;
+//         transition-delay: 0.2s;
+//       }
+//       &:nth-of-type(2) {
+//         opacity: 1;
+//         transition: 0.5s;
+//         transition-delay: 0.7s;
+//       }
+//     }
+//   }
+// }
+
+@media only screen and (max-width: 939.9px) {
+  .tab-btn.active {
+    text-decoration: underline;
+    text-decoration-color: #ff6d5a;
+  }
+}
+
+.hover-product-uitgelicht {
+  .overlay-text {
+    transition: 1s;
+  }
+
+  .overlay {
+    transition: 1s;
+  }
+
+  p {
+    transition: 1s;
+  }
+
+  &:hover {
+    .overlay {
+      opacity: 0;
+      transition: 1s;
+    }
+
+    .overlay-text {
+      bottom: 20px !important;
+      top: 80% !important;
+      transition: 1s;
+      padding: 5px 20px;
+      border-radius: 25px;
+    }
+
+    p {
+      transition: 1s;
+      font-size: 26px;
+    }
+  }
+}
+
+.tab-wrapper {
+  background-color: #fff;
+  height: 100%;
+  border-radius: 20px;
+  background-image: url("/wp-content/themes/strongandslim-theme/img/local/background-footer-img.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.tab-header {
+  position: relative;
+  align-items: center;
+  width: 100%;
+  margin: 0px 15px;
+  // border-bottom: 1px solid #e5e5e5;
+}
+
+.tab-header .tab-btn {
+  @media only screen and (max-width: 939.9px) {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: auto;
+    margin-left: 35px;
+  }
+
+  padding-top: 20px;
+  padding-bottom: 11px;
+  margin: 0 35px;
+  border: none;
+  cursor: pointer;
+  color: #fff;
+  z-index: 1;
+  background-color: transparent;
+  transition: all 0.3s ease;
+}
+
+.tab-header .tab-btn:focus {
+  outline: none;
+}
+
+.tab-header .tab-btn i {
+  margin-right: 5px;
+  font-size: 10px;
+}
+
+.tab-header .tab-btn:hover,
+.tab-header .tab-btn.active {
+  color: #fff;
+}
+
+.tab-header .underline {
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  height: 2px;
+  width: 0;
+  transform-origin: left;
+  background-color: #ff6d5a;
+  transition: all 0.3s ease;
+}
+
+.tab-body {
+  display: flex;
+  overflow: hidden;
+  border-top: #f0e9e3 1px solid;
+  margin: 0 15px;
+}
+
+.tab-body .tab-content {
+  min-width: 100%;
+  padding: 35px;
+  transition: all 0.3s;
+  text-align: justify;
+
+  table {
+    width: 100% !important;
+  }
+}
+
+.tab-wrapper[rounded] {
+  border-radius: 10px;
+}
+
+.tab-header[full-width] .tab-btn {
+  flex: 1;
+  text-align: center;
+}
+
+.tab-header[background] .tab-btn.active:after {
+  content: "";
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  height: 2px;
+  width: 100%;
+  background-color: #fff;
+}
+
+.tab-header[background] .underline {
+  background-color: #fff;
+  height: 100%;
+  bottom: 0;
+}
+
+.tab-header[border] .tab-btn {
+  border: 1px solid #e5e5e5;
+}
+
+.tab-header[border] .tab-btn.active {
+  color: #fff;
+}
+
+.tab-header[border] .underline {
+  height: 100%;
+  bottom: 0;
+}
+
+.accordion-item {
+  // background-color: #edf1ef;
+  // border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+
+  .accordion {
+    background-color: #2e4a58;
+    color: #fff;
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    width: calc(100vw - 40px);
+    max-width: 800px;
+    margin: 0 auto;
+    border-radius: 20px;
+
+    outline: none;
+    transition-delay: 0.2s;
+    transition-property: border-radius, background-color, color;
+    transition-duration: 0.2s;
+    height: 60px;
+
+    &::after {
+      content: url(/wp-content/themes/strongandslim-theme/img/icons/arrow-accordion-white.svg);
+      margin-left: auto;
+      transition: 0.3s;
+      display: block;
+      transform-origin: center;
+      margin-right: 10px;
+    }
+
+    &.active {
+      background-color: #ff6e5b;
+      color: #fff;
+      transition-delay: 0s;
+      transition: 0s;
+      border-radius: 20px 20px 0 0;
+
+      &::after {
+        content: url(/wp-content/themes/strongandslim-theme/img/icons/arrow-accordion-white.svg);
+        transform: rotate(180deg);
+        transform-origin: center;
+      }
+    }
+  }
+
+  .panel {
+    background-color: #fff;
+    overflow: hidden;
+    height: 0;
+    transition: height 0.2s ease-out;
+    max-width: 800px;
+    margin: 0 auto;
+    border-radius: 0 0 20px 20px;
+  }
+}
+
+.video-block {
+  iframe {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16/9;
+  }
+}

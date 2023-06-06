@@ -1,0 +1,16 @@
+{
+  "name": "featured-products",
+  "title": "Featured products",
+  "description": "",
+  "category": "woocommerce",
+  "icon": "insert",
+  "keywords": ["block"],
+  "supports": {
+    "mode": false,
+    "jsx": true
+  },
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "featured-products.php"
+  }
+}

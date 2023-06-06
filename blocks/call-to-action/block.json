@@ -1,0 +1,16 @@
+{
+  "name": "call-to-action",
+  "title": "Call to action",
+  "description": "",
+  "category": "blokken",
+  "icon": "insert",
+  "keywords": ["block"],
+  "supports": {
+    "mode": false,
+    "jsx": true
+  },
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "call-to-action.php"
+  }
+}

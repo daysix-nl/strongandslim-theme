@@ -1,0 +1,16 @@
+{
+  "name": "all-products",
+  "title": "All products",
+  "description": "",
+  "category": "woocommerce",
+  "icon": "insert",
+  "keywords": ["block"],
+  "supports": {
+    "mode": false,
+    "jsx": true
+  },
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "all-products.php"
+  }
+}

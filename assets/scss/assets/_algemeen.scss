@@ -1,0 +1,147 @@
+@font-face {
+  font-family: "frederickitalic";
+  src: url("/wp-content/themes/strongandslim-theme/font/FrederickSans-Italic.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "fredericknormal";
+  src: url("/wp-content/themes/strongandslim-theme/font/FrederickSans.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "avenirblack";
+  src: url("/wp-content/themes/strongandslim-theme/font/Avenir-Black.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "avenirlight";
+  src: url("/wp-content/themes/strongandslim-theme/font/Avenir-Light.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  font-family: "avenirlight";
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: "avenirlight", sans-serif;
+  overflow-x: hidden;
+}
+
+.font-stroke {
+  -webkit-text-stroke: 0.4px #000;
+}
+
+@media only screen and (min-width: 940px) {
+  .smaller-container {
+    padding-left: 55px;
+    padding-right: 55px;
+  }
+}
+
+@media only screen and (min-width: 1440px) {
+  .smaller-container {
+    padding-left: 85px;
+    padding-right: 85px;
+  }
+}
+
+@media only screen and (max-width: 939.9px) {
+  .filter-mobile {
+    transform: translateX(-100vw);
+    transition: transform 0.5s ease-in-out;
+    &.active {
+      transform: translateX(0);
+      transition: transform 0.5s ease-in-out;
+    }
+  }
+}
+
+.all-cat {
+  &.remove {
+    display: none;
+
+    & .item-cat {
+      opacity: 0;
+      transition: opacity 0.5s ease-in-out;
+    }
+  }
+
+  &:has(:not(.remove)) .item-cat {
+    opacity: 1;
+    transition: opacity 0.5s ease-in-out;
+    transition-delay: 0.2s;
+  }
+}
+
+.hover-element {
+  &.active {
+    color: #f49a4e;
+  }
+}
+
+.woocommerce-checkout-payment {
+  select {
+    font-family: "avenirlight", sans-serif;
+    width: 100%;
+    height: 50px;
+    border: 1px solid #f0e9e3;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 8px;
+    margin-top: 10px;
+  }
+}
+
+.woocommerce-account {
+  .woocommerce-MyAccount-navigation {
+    ul {
+      padding-top: 50px;
+      padding-bottom: 50px;
+      padding-left: 30px;
+      padding-right: 30px;
+      background-color: rgb(240 233 227);
+      border-radius: 25px;
+      li {
+        margin-bottom: 10px;
+        font-size: 18px;
+        text-decoration: underline;
+        font-family: "avenirlight";
+        transition: 0.3s;
+
+        &:hover {
+          transition: 0.3s;
+          opacity: 0.8;
+        }
+      }
+    }
+  }
+
+  .u-column1.col-1.woocommerce-Address {
+    margin-bottom: 20px;
+  }
+
+  .woocommerce-MyAccount-content {
+    p {
+      margin-bottom: 10px;
+    }
+
+    .woocommerce-Address-title.title {
+      h3,
+      a {
+        font-weight: 600;
+      }
+    }
+  }
+}
