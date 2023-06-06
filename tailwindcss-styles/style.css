@@ -1438,6 +1438,10 @@ video {
   .sm\:flex-row {
     flex-direction: row;
   }
+
+  .sm\:text-14 {
+    font-size: 14px;
+  }
 }
 @media (min-width: 940px) {
 

@@ -113,7 +113,7 @@ if ( post_password_required() ) {
                                     // Loop through rows.
                                     while( have_rows('informatie_repeater') ) : the_row(); ?>
                                     <div class="tab-content">
-                                        <div class="text-14 text-white"><?php the_sub_field('tekst');?></div>
+                                        <div class="text-12 sm:text-14 text-white"><?php the_sub_field('tekst');?></div>
                                     </div>
                                     <?php
                                     // End loop.
