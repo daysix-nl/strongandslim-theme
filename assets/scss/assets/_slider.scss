@@ -1,0 +1,137 @@
+.grw-slider {
+    .grw-slider-review-inner {
+        svg {
+            display: none !important;
+        }
+
+        img {
+            display: none !important;
+        }
+
+
+
+        .wp-google-stars svg {
+            display: inline-block !important;
+
+            path {
+                fill: #F49A4E !important;
+            }
+        }
+    }
+}
+
+.wp-gr .grw-slider:not(.wp-dark) .grw-slider-review-inner.grw-slider-review-border {
+    background: #36544f !important;
+    background-image: url("/wp-content/themes/strongandslim-theme/img/local/Achtergrond.jpg") !important;
+    background-position: center !important;
+
+    background-repeat: no-repeat !important;
+
+    background-size: cover !important;
+
+    border-radius: 20px !important;
+    box-shadow: unset !important;
+}
+
+.wp-gr .grw-slider .wp-google-feedback {
+    height: auto !important;
+    max-height: 300px !important;
+    overflow-y: auto !important;
+}
+
+.grw-slider-review {
+    height: auto !important;
+}
+
+.grw-slider-review-inner {
+    height: 100% !important;
+}
+
+.wp-gr .wp-google-text {
+    color: #fff !important;
+    font-size: 13px !important;
+    font-family: avenirlight !important;
+    line-height: 20px !important;
+    max-width: 100% !important;
+    overflow: hidden !important;
+    white-space: pre-wrap !important;
+    word-break: break-word !important;
+    text-align: center !important;
+}
+
+.wp-gr .grw-slider .grw-slider-header-inner,
+.wp-gr .grw-slider .grw-slider-review-inner {
+    position: relative !important;
+    margin: 0 10px !important;
+    padding: 15px !important;
+    padding-top: 40px !important;
+    padding-bottom: 40px !important;
+    width: 100% !important;
+}
+
+.wp-gr.wpac a.wp-google-name {
+    color: #F49A4E !important;
+    font-family: fredericknormal !important;
+    font-size: 25px !important;
+    text-decoration: none !important;
+    letter-spacing: 0.3px !important;
+
+}
+
+.wp-gr .wp-google-time {
+    color: #fff !important;
+    font-size: 10px !important;
+    font-family: avenirlight !important;
+    text-align: center !important;
+}
+
+.wp-gr .grw-slider .wp-google-review {
+    text-align: center !important;
+}
+
+.grw-slider-btns svg path {
+    fill: #F49A4E !important;
+}
+
+.wp-gr .grw-slider .grw-slider-btns:hover svg path {
+    fill: #f4994eaa !important;
+}
+
+.wp-gr .grw-slider .grw-slider-btns {
+    height: 50px !important;
+    width: 50px !important;
+}
+
+.wp-gr .grw-slider .grw-slider-btns.grw-slider-prev {
+    left: 0 !important;
+    margin-left: -20px !important;
+}
+
+.wp-gr .grw-slider .grw-slider-btns.grw-slider-next {
+    right: 0 !important;
+    margin-right: -20px !important;
+}
+
+.wp-gr .grw-slider .grw-slider-dot.active {
+    opacity: 1 !important;
+    background: #F49A4E !important;
+}
+
+.wp-gr .grw-slider .grw-slider-dot {
+    display: inline-block !important;
+    width: 9px !important;
+    height: 9px !important;
+    margin: 3px !important;
+    background: #fff !important;
+    border-radius: 20px !important;
+    cursor: pointer !important;
+    opacity: .4 !important;
+    transition: all .2s ease-in-out !important;
+}
+
+.wp-gr .grw-slider .grw-slider-controls {
+    position: absolute !important;
+    top: unset !important;
+    bottom: 20px !important;
+    width: 100% !important;
+}
