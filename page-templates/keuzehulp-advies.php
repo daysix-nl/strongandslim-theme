@@ -30,7 +30,7 @@
                               <p class="font-bold pb-2">Als jouw doel met betrekking tot het sporten is dat je gezond wilt blijven zijn er een aantal supplementen die voor jou van belang kunnen zijn. Belangrijk is natuurlijk gezonde en gevarieerde voeding maar (sport)supplementen kunnen een welkome aanvulling zijn. Hieronder geeft Strong & Slim (met 40 jaar ervaring in de sport-, voeding- en supplementenbranche) je advies over welke (sport)supplementen erg belangrijk kunnen zijn bij het behouden van je gezondheid.</p>
                               
                               <!-- Whey Proteïne -->
-                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Whey Proteïne</h2>
+                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">(Whey) Proteïne</h2>
                               <p class="pb-2">Zelfs als je maar 1 keer per week traint en je voornaamste doel niet het opbouwen van spiermassa is kan whey proteïne een nuttige aanvulling zijn op het behouden van je spiermassa. Als je regelmatig maaltijden overslaat of niet bij elke maaltijd een eiwitbron neemt is het nuttig om aanvulling met een eiwit- of proteïneshake in overweging te nemen. (zie ook de blog over proteïne) En als je niet altijd een shake mee wilt nemen kan ook de proteïne reep makkelijk zijn om mee te nemen om zodoende je eiwitgehalte op peil te houden.</p>
                               <div class="grid grid-cols-5 pb-3 gap-1 items-center">
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41233_Whey-Proteine-Vanille-900-gram.png" alt=""></div>
@@ -51,6 +51,9 @@
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41236_Vegan-Protein-Vanille-Koekie-1000-gram.png" alt=""></div>
                                     <div class="col-span-2"><p class="font-bold">Vegan Proteïne - Vanille Koekie 1000 gram - € 29,95</p></div>
                                     <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=601" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
+                                    <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/04/Strong-Slim-Protein-Bar.png" alt=""></div>
+                                    <div class="col-span-2"><p class="font-bold">Protein bar - Doosje met 6 repen - € 15,00</p></div>
+                                    <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=1564" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
                               </div>
                               <!-- Multi vitamine -->
                               <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Multi vitamine </h2>
@@ -152,7 +155,7 @@
                               <p class="font-bold pb-2">Als jouw doel met betrekking tot het sporten is dat je gezond wilt blijven zijn er een aantal supplementen die voor jou van belang kunnen zijn. Belangrijk is natuurlijk gezonde en gevarieerde voeding maar (sport)supplementen kunnen een welkome aanvulling zijn. Hieronder geeft Strong & Slim (met 40 jaar ervaring in de sport-, voeding- en supplementenbranche) je advies over welke supplementen erg belangrijk kunnen zijn bij het behouden van je gezondheid.</p>
                               
                               <!-- Whey Proteïne -->
-                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Whey Proteïne</h2>
+                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">(Whey) Proteïne</h2>
                               <p class="pb-2">Bij 3 a 4 keer sporten per week is er al snel sprake van een behoorlijke belasting van de spieren en deze spieren hebben dan ook extra eiwitten nodig. Whey proteïne is dan een nuttige aanvulling voor het behoud, herstel en groei van je spiermassa. (zie ook de blog over proteïne) En als je niet altijd een shake mee wilt nemen kan ook de proteïne reep makkelijk zijn om je eiwitgehalte op peil te houden.</p>
                               <div class="grid grid-cols-5 pb-3 gap-1 items-center">
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41233_Whey-Proteine-Vanille-900-gram.png" alt=""></div>
@@ -173,6 +176,9 @@
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41236_Vegan-Protein-Vanille-Koekie-1000-gram.png" alt=""></div>
                                     <div class="col-span-2"><p class="font-bold">Vegan Proteïne - Vanille Koekie 1000 gram - € 29,95</p></div>
                                     <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=601" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
+                                    <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/04/Strong-Slim-Protein-Bar.png" alt=""></div>
+                                    <div class="col-span-2"><p class="font-bold">Protein bar - Doosje met 6 repen - € 15,00</p></div>
+                                    <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=1564" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
                               </div>
                               <!-- Multi vitamine -->
                               <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Multi vitamine </h2>
@@ -271,7 +277,7 @@
                               <p class="font-bold pb-2">Als jouw doel met betrekking tot het sporten is dat je gezond wilt blijven zijn er een aantal supplementen die voor jou van belang kunnen zijn. Belangrijk is natuurlijk gezonde en gevarieerde voeding maar (sport)supplementen kunnen een welkome aanvulling zijn. Zeker bij 4 keer of meer per week trainen. Hieronder geeft Strong & Slim (met 40 jaar ervaring in de sport-, voeding- en supplementenbranche) je advies over welke supplementen erg belangrijk kunnen zijn bij het behouden van je gezondheid.</p>
                               
                               <!-- Whey Proteïne -->
-                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Whey Proteïne</h2>
+                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">(Whey) Proteïne</h2>
                               <p class="pb-2">Bij 4 keer of meer sporten per week is er al snel sprake van een zware belasting van de spieren en deze spieren hebben dan ook extra eiwitten nodig. Whey proteïne is dan een nuttige aanvulling voor  behoud, herstel en groei van je spiermassa. (zie ook de blog over proteïne) En als je niet altijd een shake mee wilt nemen kan ook de proteïne reep makkelijk zijn om je eiwitgehalte op peil te houden.</p>
                               <div class="grid grid-cols-5 pb-3 gap-1 items-center">
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41233_Whey-Proteine-Vanille-900-gram.png" alt=""></div>
@@ -292,6 +298,9 @@
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41236_Vegan-Protein-Vanille-Koekie-1000-gram.png" alt=""></div>
                                     <div class="col-span-2"><p class="font-bold">Vegan Proteïne - Vanille Koekie 1000 gram - € 29,95</p></div>
                                     <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=601" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
+                                    <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/04/Strong-Slim-Protein-Bar.png" alt=""></div>
+                                    <div class="col-span-2"><p class="font-bold">Protein bar - Doosje met 6 repen - € 15,00</p></div>
+                                    <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=1564" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
                               </div>
                               <!-- Multi vitamine -->
                               <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Multi vitamine </h2>
@@ -401,7 +410,7 @@
                               <p class="font-bold pb-2">Sporten, en dan met name krachttraining, kan je helpen gespierder te worden. Door middel van krachttraining bouw je extra spierweefsel op en dit heeft als extra voordeel dat je op lange termijn vet verbrand. Deze krachttrainingen vragen echter wel veel van je lichaam en hiervoor is goede, gevarieerde voeding onontbeerlijk. Aanvulling met (sport)supplementen bieden hierin een uitkomst. Hieronder geeft Strong & Slim (met 40 jaar ervaring in de sport-, voeding- en supplementenbranche) je advies over welke supplementen erg belangrijk kunnen zijn bij het bereiken van je doel:</p>
                               
                               <!-- Whey Proteïne -->
-                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Whey Proteïne</h2>
+                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">(Whey) Proteïne</h2>
                               <p class="pb-2">Ook als je 1 of 2 keer per week sport om spiermassa te kweken heeft je lichaam extra eiwitten nodig. Whey proteïne is dan een nuttige aanvulling voor behoud, herstel en groei van je spiermassa. (zie ook de blog over proteïne). Deze eiwitten/proteïne kan je aanvullen middels een proteïne shake, proteïne pannenkoeken of proteïne reep. De reep is met name makkelijk om mee te nemen, vooral als je af en toe een maaltijd vergeet/overslaat.</p>
                               <div class="grid grid-cols-5 pb-3 gap-1 items-center">
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41233_Whey-Proteine-Vanille-900-gram.png" alt=""></div>
@@ -422,6 +431,9 @@
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41236_Vegan-Protein-Vanille-Koekie-1000-gram.png" alt=""></div>
                                     <div class="col-span-2"><p class="font-bold">Vegan Proteïne - Vanille Koekie 1000 gram - € 29,95</p></div>
                                     <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=601" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
+                                    <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/04/Strong-Slim-Protein-Bar.png" alt=""></div>
+                                    <div class="col-span-2"><p class="font-bold">Protein bar - Doosje met 6 repen - € 15,00</p></div>
+                                    <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=1564" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
                               </div>
                               <!-- Multi vitamine -->
                               <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Multi vitamine </h2>
@@ -531,7 +543,7 @@
                               <p class="font-bold pb-2">Sporten, en dan met name krachttraining, kan je helpen gespierder te worden. Door middel van krachttraining bouw je extra spierweefsel op en dit heeft als extra voordeel dat je op lange termijn vet verbrand. Deze krachttrainingen vragen echter wel veel van je lichaam en hiervoor is goede, gevarieerde voeding onontbeerlijk. Aanvulling met (sport)supplementen bieden hierin een uitkomst. Hieronder geeft Strong & Slim (met 40 jaar ervaring in de sport-, voeding- en supplementenbranche) je advies over welke supplementen erg belangrijk kunnen zijn bij het bereiken van je doel:</p>
                               
                               <!-- Whey Proteïne -->
-                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Whey Proteïne</h2>
+                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">(Whey) Proteïne</h2>
                               <p class="pb-2">Bij 3 of 4 keer sporten per week is er al snel sprake van een behoorlijke belasting van de spieren en deze spieren hebben dan ook extra eiwitten nodig voor behoud maar zeker ook voor herstel en groei. Whey proteïne is dan een nuttige aanvulling voor behoud, herstel en groei van je spiermassa. (zie ook de blog over proteïne). Dit kan je aanvullen middels een proteïne shake, proteïne pannenkoeken of een proteïne reep. De reep is met name makkelijk om mee te nemen, vooral als je af en toe een maaltijd vergeet/overslaat.</p>
                               <div class="grid grid-cols-5 pb-3 gap-1 items-center">
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41233_Whey-Proteine-Vanille-900-gram.png" alt=""></div>
@@ -552,6 +564,9 @@
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41236_Vegan-Protein-Vanille-Koekie-1000-gram.png" alt=""></div>
                                     <div class="col-span-2"><p class="font-bold">Vegan Proteïne - Vanille Koekie 1000 gram - € 29,95</p></div>
                                     <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=601" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
+                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/04/Strong-Slim-Protein-Bar.png" alt=""></div>
+                                    <div class="col-span-2"><p class="font-bold">Protein bar - Doosje met 6 repen - € 15,00</p></div>
+                                    <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=1564" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
                               </div>
                               <!-- Multi vitamine -->
                               <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Multi vitamine </h2>
@@ -658,7 +673,7 @@
                               <p class="font-bold pb-2">Sporten, en dan met name krachttraining, kan je helpen gespierder te worden. Door middel van krachttraining bouw je extra spierweefsel op en dit heeft als extra voordeel dat je op lange termijn vet verbrand. Deze krachttrainingen vragen echter wel veel van je lichaam, zeker als je zo vaak per week traint. Hiervoor is goede, gevarieerde voeding onontbeerlijk. Aanvulling met (sport)supplementen bieden hierin een uitkomst. Hieronder geeft Strong & Slim (met 40 jaar ervaring in de sport-, voeding- en supplementenbranche) je advies over welke supplementen erg belangrijk kunnen zijn bij het bereiken van je doel:</p>
                               
                               <!-- Whey Proteïne -->
-                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Whey Proteïne</h2>
+                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">(Whey) Proteïne</h2>
                               <p class="pb-2">Zeker als je meer dan 4 keer per week sport om spiermassa te kweken heeft je lichaam extra eiwitten nodig. Whey proteïne is dan een nuttige aanvulling voor behoud, herstel en groei van je spiermassa. (zie ook de blog over proteïne). Deze extra eiwitten kan je aanvullen middels een proteïne shake, proteïne pannenkoeken of proteïne reep. De reep is met name makkelijk om mee te nemen als je af en toe een maaltijd vergeet/overslaat.</p>
                               <div class="grid grid-cols-5 pb-3 gap-1 items-center">
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41233_Whey-Proteine-Vanille-900-gram.png" alt=""></div>
@@ -679,6 +694,9 @@
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41236_Vegan-Protein-Vanille-Koekie-1000-gram.png" alt=""></div>
                                     <div class="col-span-2"><p class="font-bold">Vegan Proteïne - Vanille Koekie 1000 gram - € 29,95</p></div>
                                     <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=601" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
+                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/04/Strong-Slim-Protein-Bar.png" alt=""></div>
+                                    <div class="col-span-2"><p class="font-bold">Protein bar - Doosje met 6 repen - € 15,00</p></div>
+                                    <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=1564" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
                               </div>
                               <!-- Multi vitamine -->
                               <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Multi vitamine </h2>
@@ -805,7 +823,7 @@
                               <p class="font-bold pb-2">Als jouw doel met betrekking tot het sporten is dat je gewicht wilt verliezen zijn er een aantal supplementen die voor jou van belang kunnen zijn. Belangrijk is natuurlijk gezonde en gevarieerde voeding maar (sport)supplementen kunnen een welkome aanvulling zijn. Hieronder geeft Strong & Slim (met 40 jaar ervaring in de sport-, voeding- en supplementenbranche) je advies over welke supplementen erg belangrijk kunnen zijn bij het behouden van je gezondheid.</p>
                               
                               <!-- Whey Proteïne -->
-                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Whey Proteïne</h2>
+                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">(Whey) Proteïne</h2>
                               <p class="pb-2">Zelfs als je maar 1 keer per week traint en je voornaamste doel het afvallen is kan whey proteïne van belang zijn. Doordat je de inname van het aantal calorieën gaat verlagen is de kans groot dat je te weinig eiwitten binnenkrijgt. Ook als je regelmatig maaltijden overslaat of niet bij elke maaltijd een eiwitbron neemt is het nuttig om aanvulling met een eiwit- of proteïneshake in overweging te nemen. (zie ook de blog over proteïne) En als je niet altijd een shake mee wilt nemen kan ook de proteïne reep makkelijk zijn om je eiwitgehalte op peil te houden.</p>
                               <div class="grid grid-cols-5 pb-3 gap-1 items-center">
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41233_Whey-Proteine-Vanille-900-gram.png" alt=""></div>
@@ -826,6 +844,9 @@
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41236_Vegan-Protein-Vanille-Koekie-1000-gram.png" alt=""></div>
                                     <div class="col-span-2"><p class="font-bold">Vegan Proteïne - Vanille Koekie 1000 gram - € 29,95</p></div>
                                     <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=601" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
+                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/04/Strong-Slim-Protein-Bar.png" alt=""></div>
+                                    <div class="col-span-2"><p class="font-bold">Protein bar - Doosje met 6 repen - € 15,00</p></div>
+                                    <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=1564" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
                               </div>
                               <!-- Multi vitamine -->
                               <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Multi vitamine </h2>
@@ -923,7 +944,7 @@
                               <p class="font-bold pb-2">Als jouw doel met betrekking tot het sporten is dat je gewicht wilt verliezen zijn er een aantal supplementen die voor jou van belang kunnen zijn. Belangrijk is natuurlijk gezonde en gevarieerde voeding maar (sport)supplementen kunnen een welkome aanvulling zijn, zeker als je dit doet met 3 a 4 keer trainen per week. Hieronder geeft Strong & Slim (met 40 jaar ervaring in de sport-, voeding- en supplementenbranche) je advies over welke supplementen erg belangrijk kunnen zijn bij het behouden van je gezondheid.</p>
                               
                               <!-- Whey Proteïne -->
-                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Whey Proteïne</h2>
+                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">(Whey) Proteïne</h2>
                               <p class="pb-2">Bij 3 of 4 keer sporten per week is er al snel sprake van een behoorlijke belasting van de spieren en deze spieren hebben dan ook extra eiwitten nodig voor behoud maar zeker ook voor herstel en groei. Een bijkomend voordeel van spieropbouw is dat je ook meer energie verbrandt waardoor je sneller zult afvallen. Whey proteïne is dan een nuttige aanvulling voor behoud, herstel en groei van je spiermassa. (zie ook de blog over proteïne) En als je niet altijd een shake mee wilt nemen kan ook de proteïne reep makkelijk zijn om je eiwitgehalte op peil te houden.</p>
                               <div class="grid grid-cols-5 pb-3 gap-1 items-center">
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41233_Whey-Proteine-Vanille-900-gram.png" alt=""></div>
@@ -944,6 +965,9 @@
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41236_Vegan-Protein-Vanille-Koekie-1000-gram.png" alt=""></div>
                                     <div class="col-span-2"><p class="font-bold">Vegan Proteïne - Vanille Koekie 1000 gram - € 29,95</p></div>
                                     <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=601" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
+                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/04/Strong-Slim-Protein-Bar.png" alt=""></div>
+                                    <div class="col-span-2"><p class="font-bold">Protein bar - Doosje met 6 repen - € 15,00</p></div>
+                                    <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=1564" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
                               </div>
                               <!-- Multi vitamine -->
                               <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Multi vitamine </h2>
@@ -1052,7 +1076,7 @@
                               <p class="font-bold pb-2">Als jouw doel met betrekking tot het sporten is dat je gewicht wilt verliezen zijn er een aantal supplementen die voor jou van belang kunnen zijn. Belangrijk is natuurlijk gezonde en gevarieerde voeding maar (sport)supplementen kunnen een welkome aanvulling zijn, zeker als je dit doet met meer dan 4 keer trainen per week. Hieronder geeft Strong & Slim (met 40 jaar ervaring in de sport-, voeding- en supplementenbranche) je advies over welke supplementen erg belangrijk kunnen zijn bij het behouden van je gezondheid..</p>
                               
                               <!-- Whey Proteïne -->
-                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Whey Proteïne</h2>
+                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">(Whey) Proteïne</h2>
                               <p class="pb-2">Bij meer dan 4 keer sporten per week is er al snel sprake van een behoorlijke belasting van de spieren en deze spieren hebben dan ook extra eiwitten nodig voor behoud maar zeker ook voor herstel en groei. Een bijkomend voordeel van spieropbouw is dat je ook meer energie verbrandt waardoor je sneller zult afvallen. Whey proteïne is dan een nuttige aanvulling voor behoud, herstel en groei van je spiermassa. (zie ook de blog over proteïne) En als je niet altijd een shake mee wilt nemen kan ook de proteïne reep makkelijk zijn om je eiwitgehalte op peil te houden. </p>
                               <div class="grid grid-cols-5 pb-3 gap-1 items-center">
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41233_Whey-Proteine-Vanille-900-gram.png" alt=""></div>
@@ -1073,6 +1097,9 @@
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41236_Vegan-Protein-Vanille-Koekie-1000-gram.png" alt=""></div>
                                     <div class="col-span-2"><p class="font-bold">Vegan Proteïne - Vanille Koekie 1000 gram - € 29,95</p></div>
                                     <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=601" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
+                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/04/Strong-Slim-Protein-Bar.png" alt=""></div>
+                                    <div class="col-span-2"><p class="font-bold">Protein bar - Doosje met 6 repen - € 15,00</p></div>
+                                    <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=1564" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
                               </div>
                               <!-- Multi vitamine -->
                               <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Multi vitamine </h2>
@@ -1190,7 +1217,7 @@
                               <p class="font-bold pb-2">Als je uitsluitend met trainen je gewicht wilt verliezen zal je ook zonder meer je voedingspatroon moeten aanpassen. Ook zijn er een aantal (sport)supplementen die voor jou van belang kunnen zijn. Belangrijk om te weten is dat deze supplementen geen vervanging kunnen zijn van gezonde en gevarieerde voeding. De (sport)supplementen kunnen hierin een aanvulling zijn. Hieronder geeft Strong & Slim (met 40 jaar ervaring in de sport-, voeding- en supplementenbranche) je advies over welke supplementen erg belangrijk kunnen zijn bij het afvallen.</p>
                               
                               <!-- Whey Proteïne -->
-                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Whey Proteïne</h2>
+                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">(Whey) Proteïne</h2>
                               <p class="pb-2">Als je maar 1 of 2 keer per week traint en je voornaamste doel het afvallen is kan whey proteïne van belang zijn. Ook als je regelmatig maaltijden overslaat of niet bij elke maaltijd een eiwitbron neemt is het nuttig om aanvulling met een eiwit- of proteïneshake in overweging te nemen. Een bijkomend voordeel van spieropbouw is dat je ook meer energie verbrandt waardoor je sneller zult afvallen. Whey proteïne is dan een nuttige aanvulling voor behoud, herstel en groei van je spiermassa. (zie ook de blog over proteïne) En als je niet altijd een shake mee wilt nemen kan ook de proteïne reep makkelijk zijn om je eiwitgehalte op peil te houden.</p>
                               <div class="grid grid-cols-5 pb-3 gap-1 items-center">
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41233_Whey-Proteine-Vanille-900-gram.png" alt=""></div>
@@ -1211,6 +1238,9 @@
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41236_Vegan-Protein-Vanille-Koekie-1000-gram.png" alt=""></div>
                                     <div class="col-span-2"><p class="font-bold">Vegan Proteïne - Vanille Koekie 1000 gram - € 29,95</p></div>
                                     <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=601" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
+                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/04/Strong-Slim-Protein-Bar.png" alt=""></div>
+                                    <div class="col-span-2"><p class="font-bold">Protein bar - Doosje met 6 repen - € 15,00</p></div>
+                                    <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=1564" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
                               </div>
                               <!-- Multi vitamine -->
                               <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Multi vitamine </h2>
@@ -1308,7 +1338,7 @@
                               <p class="font-bold pb-2">Als je gemiddeld 3 a 4 keer traint en zo wilt afvallen zal je ook zonder meer je voedingspatroon moeten aanpassen. Ook zijn er een aantal (sport)supplementen die voor jou van belang kunnen zijn. Belangrijk om te weten is dat deze supplementen geen vervanging kunnen zijn van gezonde en gevarieerde voeding. De (sport)supplementen kunnen hierin een aanvulling zijn. Hieronder geeft Strong & Slim (met 40 jaar ervaring in de sport-, voeding- en supplementenbranche) je advies over welke supplementen erg belangrijk kunnen zijn bij het afvallen.</p>
                               
                               <!-- Whey Proteïne -->
-                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Whey Proteïne</h2>
+                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">(Whey) Proteïne</h2>
                               <p class="pb-2">Als je 3 of 4 keer per week traint en je voornaamste doel het afvallen is kan whey proteïne daar een belangrijke rol spelen. Ook als je regelmatig maaltijden overslaat of niet bij elke maaltijd een eiwitbron neemt is het nuttig om aanvulling met een eiwit- of proteïneshake in overweging te nemen. Een bijkomend voordeel van spieropbouw is namelijk dat je ook meer energie verbrandt waardoor je sneller zult afvallen. Whey proteïne is dan een nuttige aanvulling voor behoud, herstel en groei van je spiermassa. (zie ook de blog over proteïne) En als je niet altijd een shake mee wilt nemen kan ook de proteïne reep makkelijk zijn om je eiwitgehalte op peil te houden.</p>
                               <div class="grid grid-cols-5 pb-3 gap-1 items-center">
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41233_Whey-Proteine-Vanille-900-gram.png" alt=""></div>
@@ -1329,6 +1359,9 @@
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41236_Vegan-Protein-Vanille-Koekie-1000-gram.png" alt=""></div>
                                     <div class="col-span-2"><p class="font-bold">Vegan Proteïne - Vanille Koekie 1000 gram - € 29,95</p></div>
                                     <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=601" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
+                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/04/Strong-Slim-Protein-Bar.png" alt=""></div>
+                                    <div class="col-span-2"><p class="font-bold">Protein bar - Doosje met 6 repen - € 15,00</p></div>
+                                    <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=1564" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
                               </div>
                               <!-- Multi vitamine -->
                               <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Multi vitamine </h2>
@@ -1436,7 +1469,7 @@
                               <p class="font-bold pb-2">Als je meer dan 4 keer traint en wilt afvallen zal je ook zonder meer je voedingspatroon moeten aanpassen. Ook zijn er een aantal (sport)supplementen die voor jou van belang kunnen zijn. Belangrijk om te weten is dat deze supplementen geen vervanging kunnen zijn van gezonde en gevarieerde voeding. De (sport)supplementen kunnen hierin een aanvulling zijn. Hieronder geeft Strong & Slim (met 40 jaar ervaring in de sport-, voeding- en supplementenbranche) je advies over welke supplementen erg belangrijk kunnen zijn bij het afvallen.</p>
                               
                               <!-- Whey Proteïne -->
-                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Whey Proteïne</h2>
+                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">(Whey) Proteïne</h2>
                               <p class="pb-2">Als je 3 of 4 keer per week traint en je voornaamste doel het afvallen is kan whey proteïne daar een belangrijke rol spelen. Ook als je regelmatig maaltijden overslaat of niet bij elke maaltijd een eiwitbron neemt is het nuttig om aanvulling met een eiwit- of proteïneshake in overweging te nemen. Een bijkomend voordeel van spieropbouw is namelijk dat je ook meer energie verbrandt waardoor je sneller zult afvallen. Whey proteïne is dan een nuttige aanvulling voor behoud, herstel en groei van je spiermassa. (zie ook de blog over proteïne) En als je niet altijd een shake mee wilt nemen kan ook de proteïne reep makkelijk zijn om je eiwitgehalte op peil te houden.</p>
                               <div class="grid grid-cols-5 pb-3 gap-1 items-center">
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41233_Whey-Proteine-Vanille-900-gram.png" alt=""></div>
@@ -1457,6 +1490,9 @@
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41236_Vegan-Protein-Vanille-Koekie-1000-gram.png" alt=""></div>
                                     <div class="col-span-2"><p class="font-bold">Vegan Proteïne - Vanille Koekie 1000 gram - € 29,95</p></div>
                                     <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=601" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
+                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/04/Strong-Slim-Protein-Bar.png" alt=""></div>
+                                    <div class="col-span-2"><p class="font-bold">Protein bar - Doosje met 6 repen - € 15,00</p></div>
+                                    <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=1564" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
                               </div>
                               <!-- Multi vitamine -->
                               <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Multi vitamine </h2>
@@ -1574,7 +1610,7 @@
                               <p class="font-bold pb-2">Als je echt stappen wilt maken met het afvallen is de combinatie van sporten en voeding natuurlijk een zeer goede keuze. Ook zijn er een aantal (sport)supplementen die voor jou van belang kunnen zijn. Belangrijk om te weten is dat deze supplementen geen vervanging kunnen zijn van gezonde en gevarieerde voeding. De (sport)supplementen kunnen hierin een aanvulling zijn. Hieronder geeft Strong & Slim (met 40 jaar ervaring in de sport-, voeding- en supplementenbranche) je advies over welke supplementen erg belangrijk kunnen zijn bij het afvallen.</p>
                               
                               <!-- Whey Proteïne -->
-                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Whey Proteïne</h2>
+                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">(Whey) Proteïne</h2>
                               <p class="pb-2">Als je maar 1 of 2 keer per week traint en je voornaamste doel het afvallen is kan whey proteïne van belang zijn. Ook als je regelmatig maaltijden overslaat of niet bij elke maaltijd een eiwitbron neemt is het nuttig om aanvulling met een eiwit- of proteïneshake in overweging te nemen. Een bijkomend voordeel van spieropbouw is dat je ook meer energie verbrandt waardoor je sneller zult afvallen. Whey proteïne is dan een nuttige aanvulling voor behoud, herstel en groei van je spiermassa. (zie ook de blog over proteïne) En als je niet altijd een shake mee wilt nemen kan ook de proteïne reep makkelijk zijn om je eiwitgehalte op peil te houden.</p>
                               <div class="grid grid-cols-5 pb-3 gap-1 items-center">
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41233_Whey-Proteine-Vanille-900-gram.png" alt=""></div>
@@ -1595,6 +1631,9 @@
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41236_Vegan-Protein-Vanille-Koekie-1000-gram.png" alt=""></div>
                                     <div class="col-span-2"><p class="font-bold">Vegan Proteïne - Vanille Koekie 1000 gram - € 29,95</p></div>
                                     <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=601" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
+                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/04/Strong-Slim-Protein-Bar.png" alt=""></div>
+                                    <div class="col-span-2"><p class="font-bold">Protein bar - Doosje met 6 repen - € 15,00</p></div>
+                                    <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=1564" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
                               </div>
                               <!-- Multi vitamine -->
                               <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Multi vitamine </h2>
@@ -1696,7 +1735,7 @@
                               <p class="font-bold pb-2">De combinatie van het vele sporten en daarbij ook je voeding aan te passen is natuurlijk een mooie stap in de goede richting. Ook zijn er een aantal (sport)supplementen die voor jou van belang kunnen zijn. Belangrijk om te weten is dat deze supplementen geen vervanging kunnen zijn van gezonde en gevarieerde voeding. De (sport)supplementen kunnen hierin een aanvulling zijn. Hieronder geeft Strong & Slim (met 40 jaar ervaring in de sport-, voeding- en supplementenbranche) je advies over welke supplementen erg belangrijk kunnen zijn bij het afvallen.</p>
                               
                               <!-- Whey Proteïne -->
-                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Whey Proteïne</h2>
+                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">(Whey) Proteïne</h2>
                               <p class="pb-2">Als je 3 of 4 keer per week traint en je voornaamste doel het afvallen is kan whey proteïne daar een belangrijke rol spelen. Ook als je regelmatig maaltijden overslaat of niet bij elke maaltijd een eiwitbron neemt is het nuttig om aanvulling met een eiwit- of proteïneshake in overweging te nemen. Een bijkomend voordeel van spieropbouw is namelijk dat je ook meer energie verbrandt waardoor je sneller zult afvallen. Whey proteïne is dan een nuttige aanvulling voor behoud, herstel en groei van je spiermassa. (zie ook de blog over proteïne) En als je niet altijd een shake mee wilt nemen kan ook de proteïne reep makkelijk zijn om je eiwitgehalte op peil te houden.</p>
                               <div class="grid grid-cols-5 pb-3 gap-1 items-center">
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41233_Whey-Proteine-Vanille-900-gram.png" alt=""></div>
@@ -1717,6 +1756,9 @@
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41236_Vegan-Protein-Vanille-Koekie-1000-gram.png" alt=""></div>
                                     <div class="col-span-2"><p class="font-bold">Vegan Proteïne - Vanille Koekie 1000 gram - € 29,95</p></div>
                                     <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=601" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
+                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/04/Strong-Slim-Protein-Bar.png" alt=""></div>
+                                    <div class="col-span-2"><p class="font-bold">Protein bar - Doosje met 6 repen - € 15,00</p></div>
+                                    <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=1564" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
                               </div>
                               <!-- Multi vitamine -->
                               <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Multi vitamine </h2>
@@ -1826,7 +1868,7 @@
                               <p class="font-bold pb-2">De combinatie van meer dan 4 x in de week sporten en daarbij ook je voeding nog eens aan te passen is natuurlijk een hele mooie stap in de goede richting. Ook zijn er, met zoveel keer trainen, een aantal (sport)supplementen die voor jou van belang kunnen zijn. Belangrijk om te weten is dat deze supplementen geen vervanging kunnen zijn van gezonde en gevarieerde voeding. De (sport)supplementen kunnen hierin een aanvulling zijn. Hieronder geeft Strong & Slim (met 40 jaar ervaring in de sport-, voeding- en supplementenbranche) je advies over welke supplementen erg belangrijk kunnen zijn bij het afvallen.</p>
                               
                               <!-- Whey Proteïne -->
-                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Whey Proteïne</h2>
+                              <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">(Whey) Proteïne</h2>
                               <p class="pb-2">Bij meer dan 4 keer per week trainen en je voornaamste doel het afvallen is, speelt whey proteïne daar een belangrijke rol in. Ook als je regelmatig maaltijden overslaat of niet bij elke maaltijd een eiwitbron neemt is het nuttig om aanvulling met een eiwit- of proteïneshake in overweging te nemen. Een bijkomend voordeel van spieropbouw is namelijk dat je ook meer energie verbrandt waardoor je sneller zult afvallen. Whey proteïne is dan een nuttige aanvulling voor behoud, herstel en groei van je spiermassa. (zie ook de blog over proteïne) En als je niet altijd een shake mee wilt nemen kan ook de proteïne reep makkelijk zijn om je eiwitgehalte op peil te houden.</p>
                               <div class="grid grid-cols-5 pb-3 gap-1 items-center">
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41233_Whey-Proteine-Vanille-900-gram.png" alt=""></div>
@@ -1847,6 +1889,9 @@
                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/03/41236_Vegan-Protein-Vanille-Koekie-1000-gram.png" alt=""></div>
                                     <div class="col-span-2"><p class="font-bold">Vegan Proteïne - Vanille Koekie 1000 gram - € 29,95</p></div>
                                     <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=601" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
+                                     <div class="col-span-1 max-w-[200px]"><img src="https://strongandslim.nl/wp-content/uploads/2023/04/Strong-Slim-Protein-Bar.png" alt=""></div>
+                                    <div class="col-span-2"><p class="font-bold">Protein bar - Doosje met 6 repen - € 15,00</p></div>
+                                    <div class="col-span-2"><a href="<?php echo $current_url ?>&add-to-cart=1564" class="hover:underline text-soft-peache">Voeg direct toe aan winkelwagen</a></div>
                               </div>
                               <!-- Multi vitamine -->
                               <h2 class="text-green text-26 leading-26 md:text-26 md:leading-26 font-avenir-black pb-2">Multi vitamine </h2>
