@@ -61,10 +61,10 @@
                 "id": ""
             },
             "choices": {
-                "\/wp-content\/themes\/day-six\/img\/local\/Achtergrond5.png": "Geen huisstijl achtergrond",
-                "\/wp-content\/themes\/day-six\/img\/local\/Achtergrond.jpg": "Groene versie",
-                "\/wp-content\/themes\/day-six\/img\/local\/Achtergrond4.jpg": "Blauwe versie",
-                "\/wp-content\/themes\/day-six\/img\/local\/Achtergrond3.jpg": "Peache versie"
+                "\/wp-content\/themes\/strongandslim-theme\/img\/local\/Achtergrond5.png": "Geen huisstijl achtergrond",
+                "\/wp-content\/themes\/strongandslim-theme\/img\/local\/Achtergrond.jpg": "Groene versie",
+                "\/wp-content\/themes\/strongandslim-theme\/img\/local\/Achtergrond4.jpg": "Blauwe versie",
+                "\/wp-content\/themes\/strongandslim-theme\/img\/local\/Achtergrond3.jpg": "Peache versie"
             },
             "default_value": false,
             "return_format": "value",
